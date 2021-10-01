@@ -1,6 +1,7 @@
 # Kubernetes Architecture and Components 
 
 [Kubernetes Fundamentals For Absolute Beginners: Architecture & Components](https://medium.com/the-programmer/kubernetes-fundamentals-for-absolute-beginners-architecture-components-1f7cda8ea536)
+
 [CONTAINERS, KUBERNETES, AND SERVICE MESH IN A NUTSHELL](https://pvillela.com/2021/containers-kubernetes-and-service-mesh-in-a-nutshell/)
 
 
